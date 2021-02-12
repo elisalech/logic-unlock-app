@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "logic-quest-app",
-    "slug": "logic-quest-app",
+    "name": "logic-unlock-app",
+    "slug": "logic-unlock-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -13,9 +13,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
